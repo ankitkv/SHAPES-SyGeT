@@ -19,16 +19,16 @@ SHAPES-SyGeT (**SHAPES** **Sy**stematic **Ge**neralization **T**est) is a split 
 11. is a `SHAPE` `TRANSFORM` a `SHAPE`
 12. is a `COLOR` shape `COLOR`
 
-`COLOR` can take values in 'red', 'green', 'blue'
-`SHAPE` can take values in 'circle', 'triangle', 'square'
+`COLOR` can take values in 'red', 'green', 'blue'\
+`SHAPE` can take values in 'circle', 'triangle', 'square'\
 `TRANSFORM` can take values in 'above', 'below', 'left of', 'right of'
 
 ## Splits
 
 `Train` and `Val-IID` use train templates. `Val-OOD` uses evaluation templates.
 
-`Train` size: 7560
-`Val-IID` size: 1080
+`Train` size: 7560\
+`Val-IID` size: 1080\
 `Val-OOD` size: 6976
 
 ## References
